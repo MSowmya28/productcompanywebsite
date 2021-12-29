@@ -194,9 +194,10 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-~~~1
+~~~
 ## PEOPLE PAGE:
 ~~~
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -270,6 +271,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+
 ~~~
 
 
